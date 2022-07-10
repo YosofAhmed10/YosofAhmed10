@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## My Name is [Yosof Ahmed](https://github.com/YosofAhmed10)
 
-### I am Full stack web developer using :
+### I am a Full-stack web developer using :
 
 - HTML
 - CSS
