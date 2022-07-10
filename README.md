@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to [@YosofAhmed10](https://github.com/YosofAhmed10)
+# Welcome to [@YosofAhmed10](https://github.com/YosofAhmed10) & [@yosofahmed0](https://github.com/yosofahmed0)
 
 ## My Name is [Yosof Ahmed](https://github.com/YosofAhmed10)
 
