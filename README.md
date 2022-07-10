@@ -40,11 +40,11 @@ Here are some ideas to get you started:
   - [MySQL](https://github.com/mysql)
   - [MongoDB](https://github.com/mongodb)
 
-[![YosofAhmed10's GitHub stats](https://github-readme-stats.vercel.app/api?username=YosofAhmed10&include_all_commits=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-[![yosofahmed0's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosofahmed0&include_all_commits=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![YosofAhmed10's GitHub stats](https://github-readme-stats.vercel.app/api?username=YosofAhmed10&include_all_commits=true&show_icons=true&theme=material-palenight)](#)
+[![yosofahmed0's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosofahmed0&include_all_commits=true&show_icons=true&theme=material-palenight)](#)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YosofAhmed10&repo=dice-game,kids-blog&include_all_commits=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yosofahmed0&repo=zols&include_all_commits=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YosofAhmed10&repo=dice-game&include_all_commits=true&show_icons=true&theme=material-palenight)](https://github.com/YosofAhmed10/dice-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yosofahmed0&repo=zols&include_all_commits=true&show_icons=true&theme=material-palenight)](https://github.com/yosofahmed0/zols)
 
 #### Contact me
 
